@@ -18,7 +18,9 @@ Bahasa yang digunakan di situs ini adalah bahasa Inggris.
 # Penggunaan
 Penggunaan disini bisa dilakukan secara offline atau online.
 
-https://img.shields.io/github/repo-size/secgoh/note
+
+
+<img src="[https://img.shields.io/badge/Notepad&logoColor=blue](https://img.shields.io/github/repo-size/secgoh/note)" />
 
 # Terima Kasih
 Telah memakai script dari saya ini.

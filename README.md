@@ -18,7 +18,8 @@ Bahasa yang digunakan di situs ini adalah bahasa Inggris.
 # Penggunaan
 Penggunaan disini bisa dilakukan secara offline atau online.
 
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/secgoh/note">
+# Lainnya
+- Ukuran berkas : <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/secgoh/note">
 
 # Terima Kasih
 Telah memakai script dari saya ini.

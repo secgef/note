@@ -12,5 +12,11 @@ Bisa dipakai di server (webhosting) atau bahkan penggunaan lokal.
 # Contoh
 Bisa dicek di > https://secgoh.github.io/note.
 
+# Bahasa
+Bahasa yang digunakan di situs ini adalah bahasa Inggris.
+
+# Penggunaan
+Penggunaan disini bisa dilakukan secara offline atau online.
+
 # Terima Kasih
 Telah memakai script dari saya ini.

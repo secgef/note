@@ -10,7 +10,7 @@ Bisa dipakai di server (webhosting) atau bahkan penggunaan lokal.
 - Selesai, bisa dipakai.
 
 # Contoh
-Bisa dicek di > https://secgoh.github.io/note.
+Bisa dicek di > https://secgef.github.io/note.
 
 # Bahasa
 Bahasa yang digunakan di situs ini adalah bahasa Inggris.
